@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>[CS224N]Lecture 1 – Introduction and Word Vectors</title>
+    <url>/2019/11/02/CS224N-Lecture-1-%E2%80%93-Introduction-and-Word-Vectors/</url>
+    <content><![CDATA[<h1 id="Introduction-and-Word-Vectors"><a href="#Introduction-and-Word-Vectors" class="headerlink" title="Introduction and Word Vectors"></a><center>Introduction and Word Vectors</center></h1><h2 id="1-Algorithm"><a href="#1-Algorithm" class="headerlink" title="1. Algorithm"></a>1. Algorithm</h2><ul>
+<li>PCA</li>
+<li>t-SNE<h2 id="2-Paper"><a href="#2-Paper" class="headerlink" title="2. Paper"></a>2. Paper</h2></li>
+<li>A fast and accurate dependency parser using neural networks</li>
+</ul>
+]]></content>
+      <categories>
+        <category>online course</category>
+        <category>CS224N</category>
+      </categories>
+      <tags>
+        <tag>NLP</tag>
+      </tags>
+  </entry>
+</search>

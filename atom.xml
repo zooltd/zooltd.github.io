@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Siberia&#39;s Blog</title>
+  <icon>http://yoursite.com/icon.png</icon>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-11-02T16:22:09.503Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Siberia</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>[CS224N]Lecture 1 – Introduction and Word Vectors</title>
+    <link href="http://yoursite.com/2019/11/02/CS224N-Lecture-1-%E2%80%93-Introduction-and-Word-Vectors/"/>
+    <id>http://yoursite.com/2019/11/02/CS224N-Lecture-1-–-Introduction-and-Word-Vectors/</id>
+    <published>2019-11-02T12:39:56.000Z</published>
+    <updated>2019-11-02T16:22:09.503Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Introduction-and-Word-Vectors&quot;&gt;&lt;a href=&quot;#Introduction-and-Word-Vectors&quot; class=&quot;headerlink&quot; title=&quot;Introduction and Word
+        
+      
+    
+    </summary>
+    
+    
+      <category term="online course" scheme="http://yoursite.com/categories/online-course/"/>
+    
+      <category term="CS224N" scheme="http://yoursite.com/categories/online-course/CS224N/"/>
+    
+    
+      <category term="NLP" scheme="http://yoursite.com/tags/NLP/"/>
+    
+  </entry>
+  
+</feed>
